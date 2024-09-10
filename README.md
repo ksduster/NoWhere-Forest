@@ -10,4 +10,4 @@ When adding moderators/admins, you should only use their Steam64 ID
 
 You can add a comment to notate who the admin is by doing the following as an example
 
-74322342xxxxxxxx  //  <Steam name that matches the ID>
+74322342xxxxxxxx  //  Steam name that matches the ID
